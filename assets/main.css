@@ -1,0 +1,22 @@
+#position{
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+span{
+    font-size: 72px;
+    background-color: rgb(192, 190, 190);
+    color: rgb(223, 14, 157);
+    font-weight: 700;
+    border-radius: 25%;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#inputEmail, #inputPassword, #inputButton{
+    width: 300px;
+    margin: auto;
+}
